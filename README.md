@@ -10,9 +10,9 @@ Spotify está migrando de ser un repositorio de música a una red social para de
 -Muchos vídeos de pocos clicks que redireccionan a uno más grande -Tener una disciplina en las redes que obedezca a un esfuerzo conjunto.No hacer esfuerzos separados. -No poner contenido linkeado de una red a otra. -Con la disciplina de cada red, amplificar un contenido.
 
 ## Uso de cada red: 
--Facebook: Ampliar lazos de amistad-Facebook es una cena con amigos.
--Twitter es la inmediatez, el hoy, es un reportero en directo, todo lo que termine en "ando" grabando, cantando, etc. Tambien es una red centrada en líderes y seguidores. 
--Instagram es estar de paseo con tu ser interior.
+* Facebook: Ampliar lazos de amistad-Facebook es una cena con amigos.
+* Twitter es la inmediatez, el hoy, es un reportero en directo, todo lo que termine en "ando" grabando, cantando, etc. Tambien es una red centrada en líderes y seguidores. 
+* Instagram es estar de paseo con tu ser interior.
 
 Ejemplo: Contenido: Video de Laura leyendo una canción... -Facebook: Mis amigos que saben lo que me cuesta escribir quiero mostrarles esta letra. (En facebook los vídeos de youtube los esconde, por eso es importante subirlos en facebook video) -En Twitter: El riesgo literario de escribir una canción. Link al vídeo de youtube. -Instagram: Foto de la letra escrita a mano.
 
