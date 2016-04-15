@@ -74,6 +74,11 @@ Recomendaciones
 5. Encontrar formas más humanas y más femeninas de hacer las cosas
 6. Encontrar sus verdaderos habitantes, gente interesada en entrar al mundo de ella y hablar con ellos, hacer planes con ellos.
 7. Hacer base de datos, capturar imagenes, reconocerlos.
+8. 
+
+# Usos
+## Twitter:
+* Yehuda Katz dijo en una entrevista que todo lo que tenía que decir lo podía agrupar en series cortas de 10 tweets, es una buena manera de comunicar.
 
 Tips Técnicos
 
